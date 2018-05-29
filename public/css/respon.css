@@ -1,0 +1,49 @@
+/* Dành cho điện thoại */
+@media all and (max-width: 480px) {
+ .header-bottom .col-md-4{
+ 	display: none;
+ }
+ .logo{
+ 	display: inline-block;
+ }
+ .thongtinlh{
+    width: 100%;
+ }
+}
+ 
+/* Dành cho máy tính bảng */
+@media all and (max-width: 1024px) {
+ .header-bottom .col-md-3{
+ 	display: none;
+ }
+ .logo{
+ 	display: inline-block;
+ }
+ .thongtinlh{
+    width: 100%;
+ }
+ .navbar-header{
+ 	display: inline-block;
+    right: 0;
+    float: right;
+    top: -67px;
+    position: absolute;
+ }
+ .header-center .col-md-1{
+    position: absolute;
+    top: 157px;
+    right: 83px;
+    display: inline-block;
+ }
+ .header-center .col-md-9{
+ 	
+ }
+ .header-center .col-md-1 .glyphicon{
+ 	font-size: 34px;
+    text-align: center;
+ }
+ .header-center .col-md-1 a{
+ 	text-align: center;
+    display: -webkit-box;
+ }
+}

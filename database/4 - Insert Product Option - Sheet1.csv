@@ -1,0 +1,145 @@
+﻿ProductOptionId,Field,Label,Type,Description,CategoryId
+1,DisplayTech,Công nghệ màn hình,varchar(255),Công nghệ màn hình,1
+2,Resolution,Độ phân giải,varchar(255),Độ phân giải,1
+3,DisplaySize,Kích thước màn hình,varchar(255),Màn hình rộng,1
+4,Touchscreen,Cảm ứng,varchar(255),Loại Cảm ứng,1
+5,CoverGlass,Mặt kính cảm ứng,varchar(255),Mặt kính cảm ứng,1
+6,RearCameraRes,Độ phân giải Camera sau,varchar(255),Độ phân giải Camera sau,1
+7,Film,Quay phim Camera sau,varchar(255),Quay phim Camera sau,1
+8,Flash,Đèn Flash,varchar(255),Đèn Flash,1
+9,AdvancedImageCapture,Chụp ảnh nâng cao,varchar(255),Chụp ảnh nâng cao,1
+10,FrontCameraRes,Độ phân giải Camera trước,varchar(255),Độ phân giải Camera trước,1
+11,OS,Hệ điều hành,varchar(255),Hệ điều hành,1
+12,Chipset,Chipset,varchar(255),Chipset,1
+13,CPUSpeed,Tốc độ CPU,varchar(255),Tốc độ CPU,1
+14,GPU,Chip đồ họa (GPU),varchar(255),Chip đồ họa (GPU),1
+15,RAM,RAM,varchar(255),RAM,1
+16,ROM,Bộ nhớ trong (ROM),varchar(255),Bộ nhớ trong (ROM),1
+17,MemCard,Thẻ nhớ ngoài,varchar(255),Thẻ nhớ ngoài,1
+18,MemCardMax,Hỗ trợ thẻ tối đa,varchar(255),Hỗ trợ thẻ tối đa,1
+19,2G,Băng tần 2G,varchar(255),Băng tần 2G,1
+20,3G,Băng tần 3G,varchar(255),Băng tần 3G,1
+21,4G,Hỗ trợ 4G,varchar(255),Hỗ trợ 4G,1
+22,SIM,Số khe sim,varchar(255),Số khe sim,1
+23,SIMType,Loại Sim,varchar(255),Loại Sim,1
+24,Wifi,Wifi,varchar(255),Wifi,1
+25,GPS,GPS,varchar(255),GPS,1
+26,Bluetooth,Bluetooth,varchar(255),Bluetooth,1
+27,NFC,NFC,varchar(255),NFC,1
+28,Interface,Cổng kết nối/sạc,varchar(255),Cổng kết nối/sạc,1
+29,Jack,Jack tai nghe,varchar(255),Jack tai nghe,1
+30,Design,Thiết kế,varchar(255),Thiết kế,1
+31,Material,Chất liệu,varchar(255),Chất liệu,1
+32,Dimension,Kích thước,varchar(255),Kích thước,1
+33,Weight,Trọng lượng,varchar(255),Trọng lượng,1
+34,BatteryCapacity,Dung lượng pin,varchar(255),Dung lượng pin,1
+35,BatteryType,Loại pin,varchar(255),Loại pin,1
+36,VideoFileType,Xem phim,varchar(255),Xem phim,1
+37,MusicFileType,Nghe nhạc,varchar(255),Nghe nhạc,1
+38,AudioRecoder,Ghi âm,varchar(255),Ghi âm,1
+39,Radio,Radio,varchar(255),Radio,1
+40,Warranty,Bảo hành,varchar(255),Bảo hành,1
+41,Other,Chức năng khác,varchar(255),Chức năng khác,1
+42,DisplayTech,Công nghệ màn hình,varchar(255),Công nghệ màn hình,2
+43,Resolution,Độ phân giải,varchar(255),Độ phân giải,2
+44,DisplaySize,Kích thước màn hình,varchar(255),Màn hình rộng,2
+45,RearCameraRes,Độ phân giải Camera sau,varchar(255),Độ phân giải Camera sau,2
+46,Film,Quay phim Camera sau,varchar(255),Quay phim Camera sau,2
+47,AdvancedImageCapture,Chụp ảnh nâng cao,varchar(255),Chụp ảnh nâng cao,2
+48,FrontCameraRes,Độ phân giải Camera trước,varchar(255),Độ phân giải Camera trước,2
+49,OS,Hệ điều hành,varchar(255),Hệ điều hành,2
+50,Chipset,Chipset,varchar(255),Chipset,2
+51,CPUSpeed,Tốc độ CPU,varchar(255),Tốc độ CPU,2
+52,GPU,Chip đồ họa (GPU),varchar(255),Chip đồ họa (GPU),2
+53,RAM,RAM,varchar(255),RAM,2
+54,ROM,Bộ nhớ trong (ROM),varchar(255),Bộ nhớ trong (ROM),2
+55,MemCard,Thẻ nhớ ngoài,varchar(255),Thẻ nhớ ngoài,2
+56,MemCardMax,Hỗ trợ thẻ tối đa,varchar(255),Hỗ trợ thẻ tối đa,2
+57,SIM,Số khe sim,varchar(255),Số khe sim,2
+58,SIMType,Loại Sim,varchar(255),Loại Sim,2
+59,Call,Thực hiện cuộc gọi,varchar(255),Thực hiện cuộc gọi,2
+60,3G,Hỗ trợ 3G,varchar(255),Hỗ trợ 3G,2
+61,4G,Hỗ trợ 4G,varchar(255),Hỗ trợ 4G,2
+62,Wifi,Wifi,varchar(255),Wifi,2
+63,Bluetooth,Bluetooth,varchar(255),Bluetooth,2
+64,GPS,GPS,varchar(255),GPS,2
+65,Interface,Cổng kết nối/sạc,varchar(255),Cổng kết nối/sạc,2
+66,Jack,Jack tai nghe,varchar(255),Jack tai nghe,2
+67,AudioRecoder,Ghi âm,varchar(255),Ghi âm,2
+68,Radio,Radio,varchar(255),Radio,2
+69,Material,Chất liệu,varchar(255),Chất liệu,2
+70,Dimension,Kích thước,varchar(255),Kích thước,2
+71,Weight,Trọng lượng,varchar(255),Trọng lượng,2
+72,BatteryType,Loại pin,varchar(255),Loại pin,2
+73,BatteryCapacity,Dung lượng pin,varchar(255),Dung lượng pin,2
+74,Warranty,Bảo hành,varchar(255),Bảo hành,2
+75,CPUManufacturer,Hãng CPU,varchar(255),Hãng CPU,3
+76,CPUTech,Công nghệ CPU,varchar(255),Công nghệ CPU,3
+77,CPUType,Loại CPU,varchar(255),Loại CPU,3
+78,CPUSpeed,Tốc độ CPU,varchar(255),Tốc độ CPU,3
+79,Cache,Bộ nhớ đệm,varchar(255),Bộ nhớ đệm,3
+80,CPUMaxSpeed,Tốc độ tối đa,varchar(255),Tốc độ tối đa,3
+81,Chipset,Chipset,varchar(255),Chipset,3
+82,BusSpeed,Tốc độ Bus,varchar(255),Tốc độ Bus,3
+83,RAMMaxSupport,Hỗ trợ RAM tối đa,varchar(255),Hỗ trợ RAM tối đa,3
+84,RAM,RAM,varchar(255),RAM,3
+85,RAMType,Loại RAM,varchar(255),Loại RAM,3
+86,RAMBus,Tốc độ Bus,varchar(255),Tốc độ Bus,3
+87,StorageType,Loại ổ đĩa,varchar(255),Loại ổ đĩa,3
+88,Storage,Dung lượng ổ đĩa,varchar(255),Dung lượng ổ đĩa,3
+89,DisplaySize,Kích thước màn hình,varchar(255),Kích thước màn hình,3
+90,Resolution,Độ phân giải (W x H),varchar(255),Độ phân giải (W x H),3
+91,DisplayTech,Công nghệ màn hình,varchar(255),Công nghệ MH,3
+92,Touchscreen,Màn hình cảm ứng,varchar(255),Màn hình cảm ứng,3
+93,GPU,Chipset đồ họa,varchar(255),Chipset đồ họa,3
+94,GPUMem,Bộ nhớ đồ họa,varchar(255),Bộ nhớ đồ họa,3
+95,GPUDesign,Thiết kế card,varchar(255),Thiết kế card,3
+96,AudioChannel,Kênh âm thanh,varchar(255),Kênh âm thanh,3
+97,AddInfo,Thông tin thêm,varchar(255),Thông tin thêm,3
+98,OpticalDisk,Có sẵn Đĩa Quang,varchar(255),Có sẵn Đĩa Quang,3
+99,OpticalDiskType,Loại đĩa quang,varchar(255),Loại đĩa quang,3
+100,Interface,Cổng giao tiếp,varchar(255),Cổng giao tiếp,3
+101,ExtFeature,Tính năng mở rộng,varchar(255),Tính năng mở rộng,3
+102,LAN,LAN,varchar(255),LAN,3
+103,Wifi,Chuẩn WiFi,varchar(255),Chuẩn WiFi,3
+104,OtherWireless,Kết nối không dây khác,varchar(255),Kết nối không dây khác,3
+105,CardReader,Đọc thẻ nhớ,varchar(255),Đọc thẻ nhớ,3
+106,CardReaderType,Khe đọc thẻ nhớ,varchar(255),Khe đọc thẻ nhớ,3
+107,WCRes,Độ phân giải WC,varchar(255),Độ phân giải WC,3
+108,Battery,Thông tin Pin,varchar(255),Thông tin Pin,3
+109,OS,Hệ điều hành,varchar(255),Hệ điều hành,3
+110,Software,Phần mềm sẵn có,varchar(255),Phần mềm sẵn có,3
+111,Dimension,Kích thước,varchar(255),Kích thước,3
+112,Weight,Trọng lượng (kg),varchar(255),Trọng lượng (kg),3
+113,Material,Chất liệu,varchar(255),Chất liệu,3
+114,Warranty,Bảo hành,varchar(255),Bảo hành,3
+115,Model,Model,varchar(255),Model,4
+116,Color,Màu sắc,varchar(255),Màu sắc,4
+117,Warranty,Thời gian bảo hành,varchar(255),Thời gian bảo hành,4
+118,CPU,CPU,varchar(255),CPU,4
+119,CPUType,Loại CPU,varchar(255),Loại CPU,4
+120,CPUSpeed,Tốc độ CPU,varchar(255),Tốc độ CPU,4
+121,Cache,Bộ nhớ đệm,varchar(255),Bộ nhớ đệm,4
+122,CPUMaxSpeed,Tốc độ CPU tối đa,varchar(255),Tốc độ CPU tối đa,4
+123,RAMType,Loại RAM,varchar(255),Loại RAM,4
+124,RAM,Dung lượng RAM,varchar(255),Dung lượng RAM,4
+125,RAMBus,Tốc độ Bus,varchar(255),Tốc độ Bus,4
+126,StorageType,Loại ổ đĩa,varchar(255),Loại ổ đĩa,4
+127,Storage,Dung lượng ổ đĩa,varchar(255),Dung lượng ổ đĩa,4
+128,OpticalDisk,Ổ đĩa quang,varchar(255),Ổ đĩa quang,4
+129,OpticalDiskType,Loại đĩa quang,varchar(255),Loại đĩa quang,4
+130,GPU,Card đồ họa,varchar(255),Card đồ họa,4
+131,GPUChipset,Chipset Card đồ họa,varchar(255),Chipset Card đồ họa,4
+132,GPUMem,Dung lượng Card đồ họa,varchar(255),Dung lượng Card đồ họa,4
+133,AudioTech,Công nghệ âm thanh,varchar(255),Công nghệ âm thanh,4
+134,AudioStandard,Chuẩn âm thanh,varchar(255),Chuẩn âm thanh,4
+135,DisplayConnector,Cổng kết nối màn hình,varchar(255),Cổng kết nối màn hình,4
+136,Wifi,Chuẩn WiFi,varchar(255),Chuẩn WiFi,4
+137,LAN,Chuẩn LAN,varchar(255),Chuẩn LAN,4
+138,Bluetooth,Bluetooth,varchar(255),Bluetooth,4
+139,USB,Cổng USB,varchar(255),Cổng USB,4
+140,HDMI,Cổng HDMI,varchar(255),Cổng HDMI,4
+141,CardReader,Khe đọc thẻ nhớ,varchar(255),Khe đọc thẻ nhớ,4
+142,OS,Hệ điều hành,varchar(255),Hệ điều hành,4
+143,Dimension,Kích thước thùng máy,varchar(255),Kích thước thùng máy,4
+144,Weight,Khối lượng thùng máy,varchar(255),Khối lượng thùng máy,4

@@ -1,0 +1,6 @@
+ProductPublishId,Status,AdsImage,ProfitPercent,PublishedAt,Sticky,ProductId
+1,1,/LG/ads-lg-g5.jpg,20,2016-05-21 02:39:06,1,4
+2,1,/Samsung/ads-samsung-galaxy-s7-edge.jpg,25,2016-05-22 02:39:06,1,2
+3,1,/Apple/ads-iphone-6s-plus-64gb.jpg,17,2016-05-23 02:39:06,1,1
+4,1,/Sony/ads-sony-xperia-z5-premium-dual.jpg,30,2016-05-24 02:39:06,1,5
+5,1,/HTC/ads-htc-one-a9.jpg,15,2016-05-25 02:39:06,1,3

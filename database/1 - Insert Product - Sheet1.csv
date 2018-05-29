@@ -1,0 +1,6 @@
+ProductId,ProductName,CreatedAt,UpdatedAt,Price,Quantity,QuantityBackUp,Image,Description,ShortDescription,DeviceAttached,TaxId,CategoryId,ManufacturerId
+1,iPhone 6s Plus 64Gb,2016-05-19 08:05:38,2016-05-19 08:05:38,16000000,20,20,/Apple/pro-iphone-6s-plus-64gb.png,iPhone 6s Plus 64Gb,iPhone 6s Plus 64Gb,"Hộp, Sạc, Tai nghe, Sách hướng dẫn, Cáp, Cây lấy sim",1,1,1
+2,Samsung Galaxy S7 Edge,2016-05-20 08:05:38,2016-05-20 08:05:38,12000000,22,22,/Samsung/pro-samsung-galaxy-s7-edge.jpg,Samsung Galaxy S7 Edge,Samsung Galaxy S7 Edge,"Hộp, Sạc, Tai nghe, Sách hướng dẫn, Cáp, Cây lấy sim, Cáp OTG",2,1,2
+3,HTC One A9,2016-05-21 08:05:38,2016-05-21 08:05:38,7000000,15,15,/HTC/pro-htc-one-a9.jpg,HTC One A9,HTC One A9,"Hộp, Sạc, Tai nghe, Sách hướng dẫn, Cáp, Cây lấy sim",1,1,12
+4,LG G5,2016-05-22 08:05:38,2016-05-22 08:05:38,12500000,33,33,/LG/pro-lg-g5.jpg,LG G5,LG G5,"Hộp, Pin, Sạc, Tai nghe, Sách hướng dẫn",2,1,13
+5,Sony Xperia Z5 Premium Dual,2016-05-23 08:05:38,2016-05-23 08:05:38,12000000,17,17,/Sony/pro-sony-xperia-z5-premium-dual.jpg,Sony Xperia Z5 Premium Dual,Sony Xperia Z5 Premium Dual,"Hộp, Sạc, Tai nghe, Sách hướng dẫn, Cáp",2,1,8
